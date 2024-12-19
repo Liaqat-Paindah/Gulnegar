@@ -1,0 +1,2 @@
+
+d25859c6fe048b5a51751597d91a00b63acc64bc	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@vue/devtools-api/-/devtools-api-6.4.5.tgz","integrity":null,"time":1668929014024,"size":"0","metadata":{"time":1668929014023,"url":"http://registry.npmjs.org/@vue/devtools-api/-/devtools-api-6.4.5.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 07:23:33 GMT","location":"https://registry.npmjs.org/@vue/devtools-api/-/devtools-api-6.4.5.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

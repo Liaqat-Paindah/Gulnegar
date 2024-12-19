@@ -1,0 +1,2 @@
+
+729a38a74a4c492e4646facddbacd87344a1f244	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@types%2fsockjs","integrity":null,"time":1668926542801,"size":"0","metadata":{"time":1668926542801,"url":"http://registry.npmjs.org/@types%2fsockjs","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:42:22 GMT","location":"https://registry.npmjs.org/@types%2Fsockjs","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

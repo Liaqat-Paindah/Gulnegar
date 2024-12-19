@@ -1,0 +1,2 @@
+
+552495c4b0df6bb4b67ed965c9d7009e2c7fc179	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/dns-packet/-/dns-packet-5.4.0.tgz","integrity":null,"time":1668926707162,"size":"0","metadata":{"time":1668926707162,"url":"http://registry.npmjs.org/dns-packet/-/dns-packet-5.4.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:07 GMT","location":"https://registry.npmjs.org/dns-packet/-/dns-packet-5.4.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+4fd6455d701fad0f3f6d6f9dcca13be8ea4ce14e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/pify","integrity":null,"time":1668929802229,"size":"0","metadata":{"time":1668929802228,"url":"http://registry.npmjs.org/pify","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 07:36:42 GMT","location":"https://registry.npmjs.org/pify","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+35d9e74dccc1d9bda8787b80655ea1d0df197e48	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/find-up","integrity":null,"time":1668926613727,"size":"0","metadata":{"time":1668926613726,"url":"http://registry.npmjs.org/find-up","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:43:34 GMT","location":"https://registry.npmjs.org/find-up","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

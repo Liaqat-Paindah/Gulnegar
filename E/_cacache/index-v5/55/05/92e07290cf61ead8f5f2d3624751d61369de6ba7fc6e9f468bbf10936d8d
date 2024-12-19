@@ -1,0 +1,2 @@
+
+156a6b0bc98ed9aa3537fc631080ccd1b4896042	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/human-signals/-/human-signals-2.1.0.tgz","integrity":null,"time":1668926708434,"size":"0","metadata":{"time":1668926708434,"url":"http://registry.npmjs.org/human-signals/-/human-signals-2.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:08 GMT","location":"https://registry.npmjs.org/human-signals/-/human-signals-2.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

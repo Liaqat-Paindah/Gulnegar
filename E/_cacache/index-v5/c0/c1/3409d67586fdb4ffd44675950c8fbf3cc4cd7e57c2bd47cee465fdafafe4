@@ -1,0 +1,2 @@
+
+dd792435edbd8fcb8ea79f1f63ccf72e6d96f1a6	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/steno/-/steno-0.4.4.tgz","integrity":null,"time":1668929808835,"size":"0","metadata":{"time":1668929808834,"url":"http://registry.npmjs.org/steno/-/steno-0.4.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 07:36:47 GMT","location":"https://registry.npmjs.org/steno/-/steno-0.4.4.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

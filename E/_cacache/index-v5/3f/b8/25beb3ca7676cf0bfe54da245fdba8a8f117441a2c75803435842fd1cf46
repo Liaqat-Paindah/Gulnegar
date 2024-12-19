@@ -1,0 +1,2 @@
+
+083008c55057dbe1dfdf4a2a9faa630176bfab5d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@trysound/sax/-/sax-0.2.0.tgz","integrity":null,"time":1668926711598,"size":"0","metadata":{"time":1668926711597,"url":"http://registry.npmjs.org/@trysound/sax/-/sax-0.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:11 GMT","location":"https://registry.npmjs.org/@trysound/sax/-/sax-0.2.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

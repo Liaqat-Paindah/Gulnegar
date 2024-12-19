@@ -1,0 +1,2 @@
+
+79f133def1f49d72e9a0254a34bdb6f03323c0ec	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/negotiator/-/negotiator-0.6.3.tgz","integrity":null,"time":1668926708613,"size":"0","metadata":{"time":1668926708613,"url":"http://registry.npmjs.org/negotiator/-/negotiator-0.6.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:08 GMT","location":"https://registry.npmjs.org/negotiator/-/negotiator-0.6.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

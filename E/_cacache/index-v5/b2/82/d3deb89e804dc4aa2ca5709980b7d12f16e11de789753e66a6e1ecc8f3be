@@ -1,0 +1,2 @@
+
+534e82616c29a20a9f01364022db6b3423cf4c83	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/batch/-/batch-0.6.1.tgz","integrity":null,"time":1668926706777,"size":"0","metadata":{"time":1668926706777,"url":"http://registry.npmjs.org/batch/-/batch-0.6.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:07 GMT","location":"https://registry.npmjs.org/batch/-/batch-0.6.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

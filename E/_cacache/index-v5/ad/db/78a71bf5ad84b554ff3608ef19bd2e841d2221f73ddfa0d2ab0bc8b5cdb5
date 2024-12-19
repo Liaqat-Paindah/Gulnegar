@@ -1,0 +1,2 @@
+
+e0ba06ff53a1b24c1249824d47d7315386c2810a	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/ieee754/-/ieee754-1.2.1.tgz","integrity":null,"time":1668926717333,"size":"0","metadata":{"time":1668926717332,"url":"http://registry.npmjs.org/ieee754/-/ieee754-1.2.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:16 GMT","location":"https://registry.npmjs.org/ieee754/-/ieee754-1.2.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

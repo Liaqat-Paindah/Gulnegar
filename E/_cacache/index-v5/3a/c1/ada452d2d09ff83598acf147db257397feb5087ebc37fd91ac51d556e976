@@ -1,0 +1,2 @@
+
+b86380a4f33760448a452679ff0ecfe1c0a73533	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/pako","integrity":null,"time":1668926625429,"size":"0","metadata":{"time":1668926625429,"url":"http://registry.npmjs.org/pako","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:43:45 GMT","location":"https://registry.npmjs.org/pako","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

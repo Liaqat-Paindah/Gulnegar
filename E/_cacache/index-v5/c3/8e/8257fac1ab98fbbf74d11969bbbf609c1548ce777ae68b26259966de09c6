@@ -1,0 +1,2 @@
+
+21cf5e76b983c10db259e3b1bb550b2e67a273db	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/colorette/-/colorette-2.0.19.tgz","integrity":null,"time":1668926709897,"size":"0","metadata":{"time":1668926709897,"url":"http://registry.npmjs.org/colorette/-/colorette-2.0.19.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:09 GMT","location":"https://registry.npmjs.org/colorette/-/colorette-2.0.19.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

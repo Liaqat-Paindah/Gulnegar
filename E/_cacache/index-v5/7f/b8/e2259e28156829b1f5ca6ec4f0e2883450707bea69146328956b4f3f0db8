@@ -1,0 +1,2 @@
+
+b5f6568cde219cadbad999d05f74802a9657c09f	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/lines-and-columns","integrity":null,"time":1668926646504,"size":"0","metadata":{"time":1668926646504,"url":"http://registry.npmjs.org/lines-and-columns","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:44:07 GMT","location":"https://registry.npmjs.org/lines-and-columns","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

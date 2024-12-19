@@ -1,0 +1,2 @@
+
+7d0a241429cea1c95204f2782c093e796d0cb09b	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/server-destroy/-/server-destroy-1.0.1.tgz","integrity":null,"time":1668929808898,"size":"0","metadata":{"time":1668929808897,"url":"http://registry.npmjs.org/server-destroy/-/server-destroy-1.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 07:36:47 GMT","location":"https://registry.npmjs.org/server-destroy/-/server-destroy-1.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

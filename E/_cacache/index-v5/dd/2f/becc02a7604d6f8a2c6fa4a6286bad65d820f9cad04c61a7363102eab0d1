@@ -1,0 +1,2 @@
+
+e40dc749944fda0a443d96aff1db39fd54df69a0	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/std-env/-/std-env-3.3.1.tgz","integrity":null,"time":1668926706439,"size":"0","metadata":{"time":1668926706438,"url":"http://registry.npmjs.org/std-env/-/std-env-3.3.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:06 GMT","location":"https://registry.npmjs.org/std-env/-/std-env-3.3.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

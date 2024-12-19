@@ -1,0 +1,2 @@
+
+61b1eafcdf927ff80570e33573d20a3d4c56334d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/morgan","integrity":null,"time":1668929799293,"size":"0","metadata":{"time":1668929799292,"url":"http://registry.npmjs.org/morgan","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 07:36:39 GMT","location":"https://registry.npmjs.org/morgan","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

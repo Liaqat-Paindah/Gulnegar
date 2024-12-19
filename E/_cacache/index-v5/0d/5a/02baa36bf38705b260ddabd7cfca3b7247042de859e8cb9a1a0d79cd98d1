@@ -1,0 +1,2 @@
+
+2bb4ad33eb88412de461ae7d0c3c04549425f099	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-docker","integrity":null,"time":1668926670975,"size":"0","metadata":{"time":1668926670975,"url":"http://registry.npmjs.org/is-docker","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:44:31 GMT","location":"https://registry.npmjs.org/is-docker","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

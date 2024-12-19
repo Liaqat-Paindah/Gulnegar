@@ -1,0 +1,2 @@
+
+f405c62ab0a383bf3b8c76df315c7f5ffb791d73	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/array-flatten/-/array-flatten-2.1.2.tgz","integrity":null,"time":1668926708820,"size":"0","metadata":{"time":1668926708819,"url":"http://registry.npmjs.org/array-flatten/-/array-flatten-2.1.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:08 GMT","location":"https://registry.npmjs.org/array-flatten/-/array-flatten-2.1.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

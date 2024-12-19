@@ -1,0 +1,2 @@
+
+04b3833364b609e01cce29ef14a8438c18b75505	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz","integrity":null,"time":1668926712347,"size":"0","metadata":{"time":1668926712346,"url":"http://registry.npmjs.org/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:11 GMT","location":"https://registry.npmjs.org/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

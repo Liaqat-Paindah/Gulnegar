@@ -1,0 +1,2 @@
+
+e36a0a509d0ed0e4b40ed1532894fb0879e4d94e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@vue/compiler-sfc/-/compiler-sfc-3.2.36.tgz","integrity":null,"time":1668926710548,"size":"0","metadata":{"time":1668926710548,"url":"http://registry.npmjs.org/@vue/compiler-sfc/-/compiler-sfc-3.2.36.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:10 GMT","location":"https://registry.npmjs.org/@vue/compiler-sfc/-/compiler-sfc-3.2.36.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

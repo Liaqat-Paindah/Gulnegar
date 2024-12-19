@@ -1,0 +1,2 @@
+
+6cbbb7b18d8639b3d0141b70a415fcaa5b56c93d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/mdn-data/-/mdn-data-2.0.14.tgz","integrity":null,"time":1668926710806,"size":"0","metadata":{"time":1668926710805,"url":"http://registry.npmjs.org/mdn-data/-/mdn-data-2.0.14.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:11 GMT","location":"https://registry.npmjs.org/mdn-data/-/mdn-data-2.0.14.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

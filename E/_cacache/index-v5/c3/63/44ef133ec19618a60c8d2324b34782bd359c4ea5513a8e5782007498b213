@@ -1,0 +1,2 @@
+
+b0b4f50816783f2b27aa1012f23bd8991af1f733	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/hmac-drbg","integrity":null,"time":1668926634173,"size":"0","metadata":{"time":1668926634172,"url":"http://registry.npmjs.org/hmac-drbg","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:43:54 GMT","location":"https://registry.npmjs.org/hmac-drbg","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

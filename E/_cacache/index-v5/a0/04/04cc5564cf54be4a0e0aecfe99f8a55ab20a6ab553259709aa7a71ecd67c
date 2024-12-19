@@ -1,0 +1,2 @@
+
+39fd0b2f69729e518c22ccc38641a51618b31096	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/dot-case/-/dot-case-3.0.4.tgz","integrity":null,"time":1668926714970,"size":"0","metadata":{"time":1668926714969,"url":"http://registry.npmjs.org/dot-case/-/dot-case-3.0.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:14 GMT","location":"https://registry.npmjs.org/dot-case/-/dot-case-3.0.4.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+2ab24364b47a6879b12ead857b48f58a67e47123	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/punycode/-/punycode-1.4.1.tgz","integrity":null,"time":1668926717845,"size":"0","metadata":{"time":1668926717844,"url":"http://registry.npmjs.org/punycode/-/punycode-1.4.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:17 GMT","location":"https://registry.npmjs.org/punycode/-/punycode-1.4.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

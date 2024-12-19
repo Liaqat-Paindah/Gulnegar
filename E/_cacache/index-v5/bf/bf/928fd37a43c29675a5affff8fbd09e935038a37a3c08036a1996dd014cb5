@@ -1,0 +1,2 @@
+
+dc7692bc23bf781b03f9b613554274942e29f8b7	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/evp_bytestokey/-/evp_bytestokey-1.0.3.tgz","integrity":null,"time":1668926716204,"size":"0","metadata":{"time":1668926716204,"url":"http://registry.npmjs.org/evp_bytestokey/-/evp_bytestokey-1.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:15 GMT","location":"https://registry.npmjs.org/evp_bytestokey/-/evp_bytestokey-1.0.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

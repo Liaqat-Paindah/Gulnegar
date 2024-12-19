@@ -1,0 +1,2 @@
+
+dd86d2fe36c77e7a9f96f813c3587e60479b7e91	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/laravel-mix/-/laravel-mix-6.0.49.tgz","integrity":null,"time":1668926729348,"size":"0","metadata":{"time":1668926729348,"url":"http://registry.npmjs.org/laravel-mix/-/laravel-mix-6.0.49.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:28 GMT","location":"https://registry.npmjs.org/laravel-mix/-/laravel-mix-6.0.49.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

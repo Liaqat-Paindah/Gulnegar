@@ -1,0 +1,2 @@
+
+cf4a1a922f2e71ab2c8cb805f082514c843e3b64	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/detect-node/-/detect-node-2.1.0.tgz","integrity":null,"time":1668926706471,"size":"0","metadata":{"time":1668926706471,"url":"http://registry.npmjs.org/detect-node/-/detect-node-2.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:06 GMT","location":"https://registry.npmjs.org/detect-node/-/detect-node-2.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

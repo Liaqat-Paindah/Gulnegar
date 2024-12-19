@@ -1,0 +1,2 @@
+
+f5cb2915dc08a7be27e36122b8036498375ff651	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/charenc","integrity":null,"time":1668926539541,"size":"0","metadata":{"time":1668926539541,"url":"http://registry.npmjs.org/charenc","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:42:19 GMT","location":"https://registry.npmjs.org/charenc","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+208eabeefc2a8ef762f742b998d2f7a908c01fb9	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/wildcard/-/wildcard-2.0.0.tgz","integrity":null,"time":1668926706758,"size":"0","metadata":{"time":1668926706757,"url":"http://registry.npmjs.org/wildcard/-/wildcard-2.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:07 GMT","location":"https://registry.npmjs.org/wildcard/-/wildcard-2.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

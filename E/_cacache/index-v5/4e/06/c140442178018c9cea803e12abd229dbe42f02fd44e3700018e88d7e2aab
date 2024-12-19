@@ -1,0 +1,2 @@
+
+15a020545ecd0a5fd6a2b0012336d3cd410007be	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/node-libs-browser","integrity":null,"time":1668926488083,"size":"0","metadata":{"time":1668926488082,"url":"http://registry.npmjs.org/node-libs-browser","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:41:28 GMT","location":"https://registry.npmjs.org/node-libs-browser","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

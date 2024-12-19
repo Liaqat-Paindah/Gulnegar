@@ -1,0 +1,2 @@
+
+18c584444e888dc859d38603e9a8132baaed6a9d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/iconv-lite","integrity":null,"time":1668926679771,"size":"0","metadata":{"time":1668926679771,"url":"http://registry.npmjs.org/iconv-lite","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:44:40 GMT","location":"https://registry.npmjs.org/iconv-lite","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

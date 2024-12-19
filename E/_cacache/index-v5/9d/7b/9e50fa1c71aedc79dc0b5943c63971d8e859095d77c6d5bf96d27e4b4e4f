@@ -1,0 +1,2 @@
+
+59e3d635ee8aa4ba0dac903c50515fe5bcae2c69	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/yargs-parser/-/yargs-parser-21.1.1.tgz","integrity":null,"time":1668926705808,"size":"0","metadata":{"time":1668926705808,"url":"http://registry.npmjs.org/yargs-parser/-/yargs-parser-21.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:03 GMT","location":"https://registry.npmjs.org/yargs-parser/-/yargs-parser-21.1.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+cc3b8168960472be11f0e8c84ba034ba26e48494	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/find-cache-dir","integrity":null,"time":1668926535174,"size":"0","metadata":{"time":1668926535174,"url":"http://registry.npmjs.org/find-cache-dir","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:42:15 GMT","location":"https://registry.npmjs.org/find-cache-dir","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

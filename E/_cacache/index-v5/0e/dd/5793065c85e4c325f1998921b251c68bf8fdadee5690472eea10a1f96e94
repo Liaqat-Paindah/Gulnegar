@@ -1,0 +1,2 @@
+
+b4b8eecb9e3cd5f145a662d4b5cf96a8f5c281b6	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/eslint-scope","integrity":null,"time":1668926536206,"size":"0","metadata":{"time":1668926536205,"url":"http://registry.npmjs.org/eslint-scope","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:42:15 GMT","location":"https://registry.npmjs.org/eslint-scope","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

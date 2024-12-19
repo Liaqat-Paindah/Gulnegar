@@ -1,0 +1,2 @@
+
+7907bc2b5abfae6b10daea065be69f972539bc6b	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/consola/-/consola-2.15.3.tgz","integrity":null,"time":1668926705857,"size":"0","metadata":{"time":1668926705856,"url":"http://registry.npmjs.org/consola/-/consola-2.15.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:05 GMT","location":"https://registry.npmjs.org/consola/-/consola-2.15.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

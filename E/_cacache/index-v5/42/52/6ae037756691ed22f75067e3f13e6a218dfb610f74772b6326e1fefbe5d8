@@ -1,0 +1,2 @@
+
+09c6962cdef4ff42c8c628616a23db2d2ef1d2fa	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.11.tgz","integrity":null,"time":1668926712358,"size":"0","metadata":{"time":1668926712357,"url":"http://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.11.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:11 GMT","location":"https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.11.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

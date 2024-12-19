@@ -1,0 +1,2 @@
+
+07344840ac5a6dc39f2ccbac5f031cc95e3ddff2	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/magic-string/-/magic-string-0.25.9.tgz","integrity":null,"time":1668926710459,"size":"0","metadata":{"time":1668926710458,"url":"http://registry.npmjs.org/magic-string/-/magic-string-0.25.9.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:10 GMT","location":"https://registry.npmjs.org/magic-string/-/magic-string-0.25.9.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+36483512f1287c098b1923d5dd3b371d9cc1f6ea	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/watchpack/-/watchpack-2.4.0.tgz","integrity":null,"time":1668926710000,"size":"0","metadata":{"time":1668926709999,"url":"http://registry.npmjs.org/watchpack/-/watchpack-2.4.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:10 GMT","location":"https://registry.npmjs.org/watchpack/-/watchpack-2.4.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

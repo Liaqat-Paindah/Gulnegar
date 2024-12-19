@@ -1,0 +1,2 @@
+
+f2c61e7e3409059a295b037dc0ee0487a13a0229	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@babel%2fcore","integrity":null,"time":1668926487188,"size":"0","metadata":{"time":1668926487187,"url":"http://registry.npmjs.org/@babel%2fcore","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:41:27 GMT","location":"https://registry.npmjs.org/@babel%2Fcore","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

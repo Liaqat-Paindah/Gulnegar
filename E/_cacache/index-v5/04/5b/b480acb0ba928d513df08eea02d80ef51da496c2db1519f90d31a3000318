@@ -1,0 +1,2 @@
+
+5ee914139680141a5484f1c34f177a191ad3c89c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-extglob","integrity":null,"time":1668926599624,"size":"0","metadata":{"time":1668926599624,"url":"http://registry.npmjs.org/is-extglob","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:43:20 GMT","location":"https://registry.npmjs.org/is-extglob","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

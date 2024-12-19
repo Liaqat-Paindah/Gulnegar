@@ -1,0 +1,2 @@
+
+c76194d9caeba105297ab832b2487be21fb980ca	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/find-up/-/find-up-4.1.0.tgz","integrity":null,"time":1668926714665,"size":"0","metadata":{"time":1668926714664,"url":"http://registry.npmjs.org/find-up/-/find-up-4.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:14 GMT","location":"https://registry.npmjs.org/find-up/-/find-up-4.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+aa4d93cb0e92cdc7312ecbe1ebaa2f8f3b8545d4	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/thunky","integrity":null,"time":1668926676363,"size":"0","metadata":{"time":1668926676363,"url":"http://registry.npmjs.org/thunky","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:44:36 GMT","location":"https://registry.npmjs.org/thunky","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

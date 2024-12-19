@@ -1,0 +1,2 @@
+
+9a3d19dae1f76f9570d0862a36ee1329b1f9ee29	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/charenc/-/charenc-0.0.2.tgz","integrity":null,"time":1668926718414,"size":"0","metadata":{"time":1668926718413,"url":"http://registry.npmjs.org/charenc/-/charenc-0.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:18 GMT","location":"https://registry.npmjs.org/charenc/-/charenc-0.0.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

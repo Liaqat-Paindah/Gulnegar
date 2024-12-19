@@ -1,0 +1,2 @@
+
+8a93dd56726fa6956f522dc5b168126dc73b90b6	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz","integrity":null,"time":1668926724516,"size":"0","metadata":{"time":1668926724516,"url":"http://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:24 GMT","location":"https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

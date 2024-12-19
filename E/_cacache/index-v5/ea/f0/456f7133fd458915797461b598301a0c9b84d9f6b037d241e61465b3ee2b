@@ -1,0 +1,2 @@
+
+3373c0a3796f233159d1c335276de825ab07103b	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/growly","integrity":null,"time":1668926686757,"size":"0","metadata":{"time":1668926686757,"url":"http://registry.npmjs.org/growly","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:44:47 GMT","location":"https://registry.npmjs.org/growly","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

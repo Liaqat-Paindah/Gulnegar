@@ -1,0 +1,2 @@
+
+475547c733ec064ca2c5984b534d00388b9a3233	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/laravel-mix","integrity":null,"time":1668926482901,"size":"0","metadata":{"time":1668926482900,"url":"http://registry.npmjs.org/laravel-mix","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:41:23 GMT","location":"https://registry.npmjs.org/laravel-mix","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

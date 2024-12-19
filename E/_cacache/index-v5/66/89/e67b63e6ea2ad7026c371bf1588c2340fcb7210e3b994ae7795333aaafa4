@@ -1,0 +1,2 @@
+
+a45d1639e5efcb33353a95357d0793e620aeb7fb	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/hash-base/-/hash-base-3.1.0.tgz","integrity":null,"time":1668926714977,"size":"0","metadata":{"time":1668926714977,"url":"http://registry.npmjs.org/hash-base/-/hash-base-3.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:14 GMT","location":"https://registry.npmjs.org/hash-base/-/hash-base-3.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

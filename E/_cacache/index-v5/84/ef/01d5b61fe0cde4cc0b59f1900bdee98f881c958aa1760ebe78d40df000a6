@@ -1,0 +1,2 @@
+
+3c89a8b100d69a7d60d85a8d7cbda4d25b68e1a5	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@babel/core/-/core-7.20.2.tgz","integrity":null,"time":1668926728863,"size":"0","metadata":{"time":1668926728863,"url":"http://registry.npmjs.org/@babel/core/-/core-7.20.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:27 GMT","location":"https://registry.npmjs.org/@babel/core/-/core-7.20.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+f41917cefe3c05212f43f071ac7d384e975235e7	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/fs-monkey/-/fs-monkey-1.0.3.tgz","integrity":null,"time":1668926706629,"size":"0","metadata":{"time":1668926706628,"url":"http://registry.npmjs.org/fs-monkey/-/fs-monkey-1.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:07 GMT","location":"https://registry.npmjs.org/fs-monkey/-/fs-monkey-1.0.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

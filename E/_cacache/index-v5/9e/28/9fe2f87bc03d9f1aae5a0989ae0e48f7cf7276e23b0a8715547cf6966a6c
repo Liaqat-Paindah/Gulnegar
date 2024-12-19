@@ -1,0 +1,2 @@
+
+139b3fce2d667b28b10c557d2dbdb8633334b9c0	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/vue-router","integrity":null,"time":1668928937063,"size":"0","metadata":{"time":1668928937061,"url":"http://registry.npmjs.org/vue-router","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 07:22:14 GMT","location":"https://registry.npmjs.org/vue-router","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

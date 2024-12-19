@@ -1,0 +1,2 @@
+
+3115c75e63e8ae0167a9e9c87b134b1f1db10d41	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/cssnano-utils","integrity":null,"time":1668926603553,"size":"0","metadata":{"time":1668926603553,"url":"http://registry.npmjs.org/cssnano-utils","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:43:24 GMT","location":"https://registry.npmjs.org/cssnano-utils","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

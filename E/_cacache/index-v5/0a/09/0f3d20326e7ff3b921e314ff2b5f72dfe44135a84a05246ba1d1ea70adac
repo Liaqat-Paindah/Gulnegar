@@ -1,0 +1,2 @@
+
+20abc6c2fbf3772a664ec26bf3739ab856f3eff7	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/vary/-/vary-1.1.2.tgz","integrity":null,"time":1668926708616,"size":"0","metadata":{"time":1668926708616,"url":"http://registry.npmjs.org/vary/-/vary-1.1.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:08 GMT","location":"https://registry.npmjs.org/vary/-/vary-1.1.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

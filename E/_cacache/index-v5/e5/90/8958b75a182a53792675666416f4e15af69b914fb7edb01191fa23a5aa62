@@ -1,0 +1,2 @@
+
+59a06dfe7cd564aff2a441ef77c1f28c7c9cb56b	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/color-name","integrity":null,"time":1668926598673,"size":"0","metadata":{"time":1668926598673,"url":"http://registry.npmjs.org/color-name","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:43:19 GMT","location":"https://registry.npmjs.org/color-name","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

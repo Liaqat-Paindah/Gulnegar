@@ -1,0 +1,2 @@
+
+c774b261b0da4696e455cad84550e6f519669b62	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/glob-to-regexp/-/glob-to-regexp-0.4.1.tgz","integrity":null,"time":1668926710028,"size":"0","metadata":{"time":1668926710027,"url":"http://registry.npmjs.org/glob-to-regexp/-/glob-to-regexp-0.4.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:10 GMT","location":"https://registry.npmjs.org/glob-to-regexp/-/glob-to-regexp-0.4.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+794d7c3de30ef113c80d15dd873b9d82309b7ee7	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/supports-color/-/supports-color-8.1.1.tgz","integrity":null,"time":1668926739001,"size":"0","metadata":{"time":1668926739001,"url":"http://registry.npmjs.org/supports-color/-/supports-color-8.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:30 GMT","location":"https://registry.npmjs.org/supports-color/-/supports-color-8.1.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+4ef3b2bfdb6ed91b48f0cf6c46b0b50c644c14e7	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/shebang-regex","integrity":null,"time":1668926668012,"size":"0","metadata":{"time":1668926668011,"url":"http://registry.npmjs.org/shebang-regex","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:44:28 GMT","location":"https://registry.npmjs.org/shebang-regex","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

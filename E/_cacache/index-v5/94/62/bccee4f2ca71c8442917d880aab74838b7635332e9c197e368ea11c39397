@@ -1,0 +1,2 @@
+
+c472e04fc19f7a9e514ceeee64934303b5165be9	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/depd/-/depd-2.0.0.tgz","integrity":null,"time":1668926708179,"size":"0","metadata":{"time":1668926708179,"url":"http://registry.npmjs.org/depd/-/depd-2.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:08 GMT","location":"https://registry.npmjs.org/depd/-/depd-2.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

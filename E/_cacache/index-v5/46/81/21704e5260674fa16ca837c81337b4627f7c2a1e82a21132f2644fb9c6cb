@@ -1,0 +1,2 @@
+
+9db34daa28537ade39e96f4744dd2df173b8eece	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/selfsigned/-/selfsigned-2.1.1.tgz","integrity":null,"time":1668926709136,"size":"0","metadata":{"time":1668926709135,"url":"http://registry.npmjs.org/selfsigned/-/selfsigned-2.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:09 GMT","location":"https://registry.npmjs.org/selfsigned/-/selfsigned-2.1.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

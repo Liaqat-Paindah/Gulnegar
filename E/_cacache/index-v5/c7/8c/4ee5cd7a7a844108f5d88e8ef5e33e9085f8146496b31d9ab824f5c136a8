@@ -1,0 +1,2 @@
+
+a7ba709fa27aa4f813905cc7a469dece5568cfd4	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/websocket-driver","integrity":null,"time":1668926671063,"size":"0","metadata":{"time":1668926671062,"url":"http://registry.npmjs.org/websocket-driver","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:44:31 GMT","location":"https://registry.npmjs.org/websocket-driver","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

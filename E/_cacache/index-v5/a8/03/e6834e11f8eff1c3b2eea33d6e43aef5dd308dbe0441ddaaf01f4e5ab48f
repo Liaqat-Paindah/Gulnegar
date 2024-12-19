@@ -1,0 +1,2 @@
+
+f107f81129563be5e0b46f041d74d287d761dddc	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/terser/-/terser-5.15.1.tgz","integrity":null,"time":1668926726716,"size":"0","metadata":{"time":1668926726716,"url":"http://registry.npmjs.org/terser/-/terser-5.15.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:25 GMT","location":"https://registry.npmjs.org/terser/-/terser-5.15.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

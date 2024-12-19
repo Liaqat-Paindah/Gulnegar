@@ -1,0 +1,2 @@
+
+8df56d4eae4e3b733ffa7c2d660431200103137c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/mimic-fn","integrity":null,"time":1668926679188,"size":"0","metadata":{"time":1668926679188,"url":"http://registry.npmjs.org/mimic-fn","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:44:39 GMT","location":"https://registry.npmjs.org/mimic-fn","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

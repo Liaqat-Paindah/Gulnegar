@@ -1,0 +1,2 @@
+
+a70b8766ebc9b207c49514fc6e9dc2820f252f72	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/html-entities/-/html-entities-2.3.3.tgz","integrity":null,"time":1668926709268,"size":"0","metadata":{"time":1668926709268,"url":"http://registry.npmjs.org/html-entities/-/html-entities-2.3.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:09 GMT","location":"https://registry.npmjs.org/html-entities/-/html-entities-2.3.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

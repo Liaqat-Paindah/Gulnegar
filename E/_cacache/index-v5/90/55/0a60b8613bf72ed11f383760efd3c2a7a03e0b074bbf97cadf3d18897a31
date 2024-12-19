@@ -1,0 +1,2 @@
+
+d81eda43d046f9f9ac6d17e9c6f0b9f51843eb14	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/glob-to-regexp","integrity":null,"time":1668926536623,"size":"0","metadata":{"time":1668926536623,"url":"http://registry.npmjs.org/glob-to-regexp","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:42:15 GMT","location":"https://registry.npmjs.org/glob-to-regexp","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

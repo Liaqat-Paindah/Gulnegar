@@ -1,0 +1,2 @@
+
+557ca95c76743c7a9394aa592cb4a2e438805274	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/setimmediate/-/setimmediate-1.0.5.tgz","integrity":null,"time":1668926710768,"size":"0","metadata":{"time":1668926710768,"url":"http://registry.npmjs.org/setimmediate/-/setimmediate-1.0.5.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:10 GMT","location":"https://registry.npmjs.org/setimmediate/-/setimmediate-1.0.5.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

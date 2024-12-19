@@ -1,0 +1,2 @@
+
+e75db9cd2f4e7e43238ae24ea7fe8f1bc36e8482	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@webpack-cli/info/-/info-1.5.0.tgz","integrity":null,"time":1668926709804,"size":"0","metadata":{"time":1668926709803,"url":"http://registry.npmjs.org/@webpack-cli/info/-/info-1.5.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:09 GMT","location":"https://registry.npmjs.org/@webpack-cli/info/-/info-1.5.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+5d35c57e917f6c8b4766d01d5daf80d3a1830198	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/thunky/-/thunky-1.1.0.tgz","integrity":null,"time":1668926707159,"size":"0","metadata":{"time":1668926707158,"url":"http://registry.npmjs.org/thunky/-/thunky-1.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 20 Nov 2022 06:45:07 GMT","location":"https://registry.npmjs.org/thunky/-/thunky-1.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}
